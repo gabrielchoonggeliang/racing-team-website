@@ -1,0 +1,49 @@
+.
+├── dir.txt
+├── global.css
+├── honda
+│   ├── offroad
+│   │   └── page.tsx
+│   ├── road
+│   │   └── page.tsx
+│   └── sport
+│       └── page.tsx
+├── layout.tsx
+├── page.tsx
+├── suzuki
+│   ├── offroad
+│   │   └── page.tsx
+│   ├── road
+│   │   └── page.tsx
+│   └── sport
+│       └── page.tsx
+└── yamaha
+    ├── offroad
+    │   └── page.tsx
+    ├── road
+    │   └── page.tsx
+    └── sport
+        ├── mt15
+        │   ├── v1
+        │   │   └── page.tsx
+        │   ├── v2
+        │   │   └── page.tsx
+        │   └── v3
+        │       └── page.tsx
+        ├── mt25
+        │   ├── v1
+        │   │   └── page.tsx
+        │   ├── v2
+        │   │   └── page.tsx
+        │   └── v3
+        │       └── page.tsx
+        ├── page.tsx
+        └── r15
+            ├── v1
+            │   └── page.tsx
+            ├── v2
+            │   └── page.tsx
+            └── v3
+                └── page.tsx
+
+25 directories, 22 files
